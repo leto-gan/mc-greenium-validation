@@ -1,5 +1,0 @@
-Null scenario,Estimator,Rejection rate (nominal 0.05)
-S2 null (phi=0),TWFE-DDD,0.050
-S2 null (phi=0),EB + TWFE,0.096
-S2 null (phi=0),CEM + TWFE,0.080
-W2 intensity null (phi=0),TWFE intensity (R2),0.062
